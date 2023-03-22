@@ -324,8 +324,8 @@ Pool Metadata
     Asset types are as follows:
 
         * ``0``: USD
-        * ``1``: BTC
-        * ``2``: ETH
+        * ``1``: ETH
+        * ``2``: BTC
         * ``3``: Other StableSwap
         * ``4``: CryptoSwap
 
